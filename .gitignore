@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+config.py
+
+# Environment
+venv/
+.env
