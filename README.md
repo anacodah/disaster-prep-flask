@@ -79,9 +79,6 @@ class Config:
     SECRET_KEY = "your_secret_key"
 
 
-⚠️ Do NOT upload config.py to GitHub
-Use config_example.py as a reference.
-
 5️⃣ Run the application
 python app.py
 
@@ -97,6 +94,7 @@ Sensitive credentials are excluded using .gitignore
 config_example.py is provided for reference
 
 Actual credentials remain local
+
 
 📌 Future Improvements
 
